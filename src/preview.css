@@ -1,0 +1,49 @@
+#left{
+   margin-left: 20px;
+    
+}
+
+#avatar{
+    width: 8%;
+    
+}
+#big{
+    background-color:hsl(217, 54%, 11%);
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 20px;
+    height: 50%;
+    
+}
+#pic{
+    background-color: hsl(216, 50%, 16%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 20px;
+    width: 30vw;
+    height: auto;
+}
+h1{
+    justify-content: flex-start;
+}
+#vitu{
+    display: flex;
+    gap:200px;
+    border-bottom: 1px;
+    border-bottom-color: hsl(215, 32%, 27%) ;
+    border-style: solid;
+
+    
+    
+}
+#snap{
+    border-radius: 20px;
+}
+#bottom{
+    margin-top:40px;
+    display: flex;
+    gap: 15px;
+}
